@@ -5,7 +5,7 @@
 </div>
 <br />
 <div align="center"><strong>Vaquum Veritas turns four independent module truths into one observable, attestable, queryable system-wide record.</strong></div>
-
+<br />
 <div align="center">
   <a href="#veritas">Veritas</a> •
   <a href="#what-veritas-is-not">What Veritas Is Not</a> •
@@ -13,10 +13,7 @@
   <a href="#first-release">First Release</a> •
   <a href="#learn-more">Learn More</a>
 </div>
-<br />
-<div align="center">
-  <a href="https://scorecard.dev/viewer/?uri=github.com/Vaquum/Veritas"><img src="https://img.shields.io/ossf-scorecard/github.com/Vaquum/Veritas?label=openssf+scorecard&amp;style=flat" alt="OpenSSF Scorecard" /></a>
-</div>
+
 
 <hr />
 
